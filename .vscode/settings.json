@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/e05565aa-91b2-4526-b7e2-6bff006d732b/AppServices/subscriptions/e05565aa-91b2-4526-b7e2-6bff006d732b/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/wa-demoo",
+    "appService.deploySubpath": "."
+}
